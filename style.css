@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 213, 249);
+    font-family: "Segoe UI Black";
+    
+}
+
+.text_images_and_result{
+    background-color: rgb(255, 251, 198);
+    box-shadow: 5px 5px 5px rgb(171, 165, 172);
+    margin: 10;
+    padding: 20;
+    border-radius: 15px;
+    width: 40%;
+}
+
+#head_img{
+    height: 250px;
+    width: 250px;
+}
+
+.img-responsive{
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+}
