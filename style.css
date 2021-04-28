@@ -23,3 +23,18 @@ body{
     height: 300px;
     border-radius: 15px;
 }
+
+.result{
+    background-color: rgb(241, 173, 255);
+    box-shadow: 5px 5px 5px rgb(171, 165, 172);
+    margin: 10;
+    padding: 20;
+    border-radius: 15px;
+    width: 90%;
+    font-size: 18px;
+}
+
+.ma{
+    font-size: 19px;
+    color: crimson;
+}
